@@ -12,3 +12,5 @@ class Img_pers:
     img_att = pygame.image.load("imagens/Gangsters_1/Walk.png")
     img_idle = pygame.image.load("imagens/Gangsters_1/Idle_2.png") #frames: 9
     img_walk = pygame.image.load("imagens/Gangsters_1/Walk.png")
+    img_recharge = pygame.image.load("imagens/Gangsters_1/Recharge.png")
+    img_jump = pygame.image.load("imagens/Gangsters_1/Jump.png")
